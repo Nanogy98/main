@@ -34,3 +34,10 @@ t=input('高さ')
 T=int(t)
 menseki=(r+l)*t/2
 print('台形の面積は '+str (menseki))
+ 
+###########################################
+
+l=input("数字の桁数を数えます")
+L=int(l)
+text=l
+print(len (text))
