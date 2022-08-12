@@ -1,1 +1,1 @@
-# sankkakei_menseki
+# menseki
